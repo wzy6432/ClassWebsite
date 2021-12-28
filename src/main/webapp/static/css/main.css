@@ -1,0 +1,87 @@
+* {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+BODY {
+	FONT-FAMILY: "微软雅黑"; FONT-SIZE: 14px
+}
+TD {
+	FONT-FAMILY: "微软雅黑"; FONT-SIZE: 14px
+}
+TH {
+	FONT-FAMILY: "微软雅黑"; FONT-SIZE: 14px
+}
+#header {
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; MARGIN: 0px auto; WIDTH: 980px; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid
+}
+#content {
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; MARGIN: 0px auto; WIDTH: 980px; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid
+}
+#footer {
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; MARGIN: 0px auto; WIDTH: 980px; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid
+}
+#nav {
+	MARGIN-TOP: 2px; BACKGROUND-IMAGE: url(nav/nav.jpg) repeat-x
+}
+#nav UL LI {
+	TEXT-ALIGN: center; LINE-HEIGHT: 35px; LIST-STYLE-TYPE: none; WIDTH: 110px; FLOAT: left; HEIGHT: 35px
+}
+#nav UL LI A {
+	COLOR: #ccc; TEXT-DECORATION: none
+}
+#nav UL LI A:hover {
+	COLOR:red; TEXT-DECORATION: underline
+}
+#footer {
+	TEXT-ALIGN: center; LINE-HEIGHT: 25px; MARGIN-TOP: 2px
+}
+.cls {
+	CLEAR: both
+}
+.left {
+	BORDER-BOTTOM: #000 2px solid; BORDER-LEFT: #000 2px solid; WIDTH: 650px; FLOAT: left; BORDER-TOP: #000 2px solid; BORDER-RIGHT: #000 2px solid
+}
+.right UL LI .news_sj {
+	FLOAT: right
+}
+.right UL LI {
+	BORDER-BOTTOM: #999 1px dashed; LINE-HEIGHT: 26px; LIST-STYLE-TYPE: none; MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px
+}
+.right UL LI A {
+	TEXT-DECORATION: none
+}
+UNKNOWN {
+	COLOR: #f60
+}
+MARQUEE {
+	LINE-HEIGHT: 25px; MARGIN: 3px 6px
+}
+.left-l {
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; WIDTH: 239px; FLOAT: left; MARGIN-LEFT: 5px; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid
+}
+.right-r {
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; WIDTH: 395px; FLOAT: right; HEIGHT: 342px; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid
+}
+.hg {
+	LINE-HEIGHT: 27px; TEXT-INDENT: 2em; MARGIN: 5px 10px
+}
+.right {
+	BORDER-BOTTOM: #000 2px solid; BORDER-LEFT: #000 2px solid; WIDTH: 320px; MARGIN-BOTTOM: 4px; FLOAT: right; BORDER-TOP: #000 2px solid; BORDER-RIGHT: #000 2px solid
+}
+#pic_news {
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; MARGIN-TOP: 5px; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid
+}
+.hg {
+	LINE-HEIGHT: 27px; TEXT-INDENT: 2em; MARGIN: 5px 10px
+}
+.hd {
+	TEXT-ALIGN: center; LINE-HEIGHT: 30px; MARGIN-TOP: 50px; FONT-FAMILY: "������������"; MARGIN-BOTTOM: 50px; FONT-SIZE: 36px
+}
+H3 {
+	LINE-HEIGHT: 35px; PADDING-LEFT: 20px; BACKGROUND: url(picture/titil_bj.JPG) repeat-x
+}
+H1 {
+	LINE-HEIGHT: 35px; PADDING-LEFT: 20px; BACKGROUND: url(picture/titil_bj.JPG) repeat-x; FONT-SIZE: 16px
+}
+.gd_pic {
+	TEXT-ALIGN: center; FLOAT: left
+}
