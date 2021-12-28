@@ -6,7 +6,8 @@ Maven 3.8.1 </br>
 《阿里巴巴Java开发手册》1.3.1 (终极版)
 ## :balance_scale: 系统配置
 服务器配置：</br>
-![image](https://github.com/wzy6432/ClassWebsite/blob/main/picture/tomcat.png)</br>
+
+
 数据库配置：</br>
 username=root</br>
 password=123456</br>
