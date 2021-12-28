@@ -1,6 +1,6 @@
 ## :carousel_horse: 运行环境
 JDK 1.8 </br>
-MySQL 8.0 </br>
+MySQL 5.7 </br>
 Maven 3.8.1 </br>
 ## :eagle: 代码规范
 《阿里巴巴Java开发手册》1.3.1 (终极版)
