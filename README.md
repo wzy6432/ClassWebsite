@@ -32,4 +32,5 @@ maxActive=10</br>
 ![image](https://github.com/wzy6432/ClassWebsite/blob/main/project-show/班级公告页面.png)</br>
 学习资源：</br>
 ![image](https://github.com/wzy6432/ClassWebsite/blob/main/project-show/学习资源上传和下载界面.png)</br>
-
+个人信息界面：</br>
+![image](https://github.com/wzy6432/ClassWebsite/blob/main/project-show/个人信息界面1.png)</br>
