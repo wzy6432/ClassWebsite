@@ -1,0 +1,28 @@
+1.在测试UserImplDao时，发现除了更新用户，其他两个查询都出错，原因是Student类中没有写无参的构造函数
+2.构造方法快捷键：alt+insert
+  生成测试类快捷键：ctrl+shift+t
+  查找文本：ctrl+t
+ 生成try catch块：ctrl+alt+t
+3.contact.html即为注册页面
+4.RegistServelet注册成功跳转页面那里跳转到完善个人信息页面，即studentInfo.jsp，用户填了必填项才能进行访问
+5.导入jquery文件成功，但是$会报错：因为idea的语言和框架那里没有配置jQuery
+6.注册账号时，如果已经注册过，不能重复注册。（已完成）
+7.用户注册（已完成）
+8.导航栏增加“登录”（叶）
+9.用户登录（已完成）
+10.设置一下登录页面的登录按钮样式，和注册页面的注册按钮样式（叶）
+11.已经把注册页面的Remenber Me复选框删了（已完成）
+12.管理员登录成功之后进入成绩管理页面（已完成）
+13.对成绩管理前端页面进行设计（叶）
+14.将数据库的班级公告表做成是某一个班级的班级公告表，主键为标题，由于之前一点小问题，将classId作为标题，即数据库中，classId存的应该是公告的标题
+15.Uncaught SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at Object.error (user_class.js:21)
+    at i (jquery-3.1.1.min.js:1188)
+    at Object.fireWith [as rejectWith] (jquery-3.1.1.min.js:1227)
+    at A (jquery-3.1.1.min.js:3242)
+    at XMLHttpRequest.<anonymous> (jquery-3.1.1.min.js:3334)
+   错误，但是后端没问题。
+16.用户登录成功后进入武炙翼的user_class_homepage.jsp页面（已完成，servle重定向即刻）
+17.将武炙翼的页面改一下（太丑了，叶）
+18.关于文件上传和下载，文件应该保存在服务器中而非数据库中
