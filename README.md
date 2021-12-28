@@ -21,4 +21,16 @@ maxActive=10</br>
 本系统是基于Web的班级网站系统设计与实现，要实现用户或管理员的注册与登录、班级首页展示、班级公告展示与查询、学习资源下载等功能。该系统主要使用**jsp**开发前端页面，部署于**Tomcat**服务器上, 并采用**MySQ**L作为后台数据库。系统通过测试，能满足基本的应用功能，并且系统可以进行进一步的扩展，增加更多实用功能。
 ## :balance_scale: 项目展示  
 注册页面：</br>
-![image](https://github.com/wzy6432/ClassWebsite/project-show/注册页面.png)
+![image](https://github.com/wzy6432/ClassWebsite/blob/main/project-show/注册页面.png)</br>
+个人信息填写界面：</br>
+![image](https://github.com/wzy6432/ClassWebsite/blob/main/project-show/个人信息填写页面.png)</br>
+登录界面：</br>
+![image](https://github.com/wzy6432/ClassWebsite/blob/main/project-show/登录页面.png)</br>
+班级主页：</br>
+![image](https://github.com/wzy6432/ClassWebsite/blob/main/project-show/班级主页面.png)</br>
+班级公告界面：</br>
+![image](https://github.com/wzy6432/ClassWebsite/blob/main/project-show/班级公告页面.png)</br>
+学习资源：</br>
+![image](https://github.com/wzy6432/ClassWebsite/blob/main/project-show/学习资源上传和下载界面.png)</br>
+个人信息界面：</br>
+![image](https://github.com/wzy6432/ClassWebsite/blob/main/project-show/个人信息界面.png)</br>
